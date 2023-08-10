@@ -47,8 +47,7 @@ and see the app in your browser at http://127.0.0.1:3000 (or at url given in ter
 
 Clicking View Coaches from the home page would bring you here:
 (coaches_view_screenshot.png)
-![coaches_view_screenshot](https://github.com/beatrixbetsycarroll/rails_react_scheduler/assets/8547956/2e2855e2-b7c3-4141-8b0a-2f52b467d95b)
-
+![coaches_view_screenshot](https://github.com/beatrixbetsycarroll/rails_react_scheduler/assets/8547956/5518ab94-9449-4253-a68f-f6f59caa87b0)
 
 Clicking View Slots from the home page would bring you here:
 (slots_view_screenshot.png)
