@@ -37,6 +37,7 @@ and see the app in your browser at http://127.0.0.1:3000 (or at url given in ter
     - Validation on the slot creation (not allowing the creation of overlapping slots for the same coach)
     - I got the events to render in a calendar correctly, showing different colors for diff coaches
 - I did not get around to allowing users to update slots by assigning a student to them, so that is a piece of functionality I would add next
+- following that, I would implement all the rest of the requirements that I did not get to: views that are specific to the user (coach vs. students), and the ability to book slots as a student, and the ability to create and update slots as a coach in the web app
 
 
 **Here are som screenshots of a walk thru the app:**
